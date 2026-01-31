@@ -8,3 +8,6 @@ Learning GitHub step-by-step.
 
 Last updated: 2026-01-31
 
+## Jeiar
+
+My practice without GPT's help
